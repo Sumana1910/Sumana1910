@@ -7,15 +7,7 @@ What drives me is a genuine curiosity about the world and a desire to solve real
 ## 🔭 Currently Exploring
 - Machine learning & deep learning  
 - Time series forecasting  
-- Real-world applications of statistical models  
-
-## 🌱 Always Learning
-- New tools and frameworks in the data science ecosystem  
-- Advanced statistical techniques and modeling strategies  
-
-## 💡 My Goal
-To use data as a catalyst for **positive societal change**.
-
+- Real-world applications of statistical models 
 ---
 
 📫 **Let's connect!**  
