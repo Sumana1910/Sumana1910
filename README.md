@@ -10,7 +10,7 @@ What drives me is a genuine curiosity about the world and a desire to solve real
 - Real-world applications of statistical models 
 
 📫 **Let's connect!**  
-Feel free to explore my repositories, open an issue, or drop me a message [here](https://www.linkedin.com/in/sumana-sarkar-a60821204/). I'm always open to collaboration and learning from others!
+Feel free to explore my repositories, open an issue, or drop me a message [here](https://www.linkedin.com/in/sumana19/). I'm always open to collaboration and learning from others!
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
