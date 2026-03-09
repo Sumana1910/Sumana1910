@@ -4,13 +4,12 @@ I’m a Master’s student in Computer Science, with a strong interest in **data
 
 I am particularly drawn to the power of data-driven approaches in solving real-world problems. My curiosity about patterns in data motivates me to continuously learn and explore new techniques in machine learning, data analysis, and statistical modeling. I enjoy working on projects, experimenting with datasets, and collaborating with others to develop practical solutions using data.
 
-
 **🔭 Currently Exploring**
 - Machine learning & deep learning
 - AI models
-- Data science and data analysis 
+- Data science and data analysis
 - Time series forecasting  
-- Real-world applications of statistical models 
+- Real-world applications of statistical models
 
 📫 **Let's connect!**  
 Feel free to explore my repositories, open an issue, or drop me a message [here](https://www.linkedin.com/in/sumana19/). I'm always open to collaboration and learning from others!
