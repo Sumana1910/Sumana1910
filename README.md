@@ -5,7 +5,7 @@ I’m a Master’s student in Computer Science, with a strong interest in **data
 I am particularly drawn to the power of data-driven approaches in solving real-world problems. My curiosity about patterns in data motivates me to continuously learn and explore new techniques in machine learning, data analysis, and statistical modeling. I enjoy working on projects, experimenting with datasets, and collaborating with others to develop practical solutions using data.
 
 
- **🔭 Currently Exploring**
+**🔭 Currently Exploring**
 - Machine learning & deep learning
 - AI models
 - Data science and data analysis 
