@@ -1,11 +1,13 @@
 # 👋 Hi, I'm Sumana!
 
-I'm a Computer Science graduate with a deep passion for **data science** and **statistics**. Over the years, I've built a strong foundation in **programming**, **mathematical modeling**, and **statistical analysis**—essential tools for making sense of complex datasets and uncovering meaningful insights.
+I’m currently a Master’s student in Computer Science, with a strong interest in **data science and statistics**. Through my academic journey, I have been building a solid foundation in **programming**, **mathematical modeling**, and **statistical analysis**—essential tools for understanding complex datasets and extracting meaningful insights.
 
-What drives me is a genuine curiosity about the world and a desire to solve real-world problems through **data-driven approaches**. I'm always on the lookout for new challenges, whether it's through personal projects, open-source contributions, or collaborative work with like-minded individuals.
+I am particularly drawn to the power of data-driven approaches in solving real-world problems. My curiosity about patterns in data motivates me to continuously learn and explore new techniques in machine learning, data analysis, and statistical modeling. I enjoy working on projects, experimenting with datasets, and collaborating with others to develop practical solutions using data.
 
  **🔭 Currently Exploring**
-- Machine learning & deep learning  
+- Machine learning & deep learning
+- AI models
+- Data science and data analysis 
 - Time series forecasting  
 - Real-world applications of statistical models 
 
